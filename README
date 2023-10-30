@@ -1,0 +1,9 @@
+Acabo de terminar un curso basico de css y quise practicar haciendo un menu nav con iconos, esa era la idea princiapl y despues surgio la idea de hacerle su respectiva seccion a cada item del menu.
+
+Despues de realizarlo pense en hacer unas cards para la parte principal de la pagina y es donde tuve algunos inconvenientes a la hora de querer centrar el container del section #princiapl porque si le ponia un margin-top de quebraba la pagina ya que el nav-menu tiene un position fixed, mi forma de arreglar fue poniendo position absolute al container y probar medidas para que quedara mas o menos centrado y poder seguir practicando el flexbox y algo de grid.
+
+Me seria de mucha ayuda si me pudieras corregir la semantica del html para saber si use las etiquetas correctas o debi de haber usado otras.
+
+Tambien en el css saber si puedo ahorrar codigo o si hay otras propiedades que harian mejor x cosa.
+
+Te agradezco mucho por tomarte el tiempo de ver esto.
